@@ -13,7 +13,9 @@ It will mainly focus on the following things:
 - update root-password <br />
 - deactivate enterprise-repos<br />
 - mount network drives<br />
+- restore storage configuration<br />
 - restore backups<br />
+- restore backup schedule<br />
 - unpack utility scripts<br />
 - update crontab<br />
 - configure samba-service<br />
