@@ -9,7 +9,7 @@ Just look into it and let it take you from there.
 
 It will mainly focus on the following things:
 
-Update root-password
+Update root-password /n
 Deactivate enterprise-repos
 Mount network drives
 Restore Backups
