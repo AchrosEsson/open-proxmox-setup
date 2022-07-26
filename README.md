@@ -27,7 +27,7 @@ And also trigger these software installations:
 - mail-utils<br />
 - samba<br />
 - cifs-utils<br />
-. wget<br />
+- wget<br />
 - htop<br />
 - avahi-daemon<br />
 - ncdu<br />
