@@ -20,7 +20,7 @@ It will mainly focus on the following things:
 - setup email-gateway<br />
 - update ssh-keys<br />
 
-And also trigger these software installations:
+and also trigger these software installations:
 
 - locate<br />
 - postfix<br />
