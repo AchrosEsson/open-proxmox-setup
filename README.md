@@ -9,29 +9,29 @@ Just look into it and let it take you from there.
 
 It will mainly focus on the following things:
 
-Update root-password /n
-Deactivate enterprise-repos
-Mount network drives
-Restore Backups
-Unpack Scripts in /root/
-Update crontab
-Configure Samba-Service
-Setup Email-Gateway
-Update ssh-keys
+Update root-password <br />
+Deactivate enterprise-repos<br />
+Mount network drives<br />
+Restore Backups<br />
+Unpack Scripts in /root/<br />
+Update crontab<br />
+Configure Samba-Service<br />
+Setup Email-Gateway<br />
+Update ssh-keys<br />
 
 And also trigger these software installations:
 
-Locate
-Postfix
-Mail-Utils
-Samba
-Cifs-Utils
-Wget
-Htop
-Avahi
-Ncdu
-GnuPG
-Rsync
-Libsasl2-Modules
+Locate<br />
+Postfix<br />
+Mail-Utils<br />
+Samba<br />
+Cifs-Utils<br />
+Wget<br />
+Htop<br />
+Avahi<br />
+Ncdu<br />
+GnuPG<br />
+Rsync<br />
+Libsasl2-Modules<br />
 
 Hope you enjoy!
