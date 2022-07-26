@@ -9,31 +9,31 @@ Just look into it and let it take you from there.
 
 It will mainly focus on the following things:
 
-Scan for and Import ZFS-Pools
-Update root-password <br />
-Deactivate enterprise-repos<br />
-Mount network drives<br />
-Restore Backups<br />
-Unpack Scripts in /root/<br />
-Update crontab<br />
-Configure Samba-Service<br />
-Setup Email-Gateway<br />
-Update ssh-keys<br />
+- scan for and import zfs-pools<br />
+- update root-password <br />
+- deactivate enterprise-repos<br />
+- mount network drives<br />
+- restore backups<br />
+- unpack utility scripts<br />
+- update crontab<br />
+- configure samba-service<br />
+- setup email-gateway<br />
+- update ssh-keys<br />
 
 And also trigger these software installations:
 
-Locate<br />
-Postfix<br />
-Mail-Utils<br />
-Samba<br />
-Cifs-Utils<br />
-Wget<br />
-Htop<br />
-Avahi<br />
-Ncdu<br />
-GnuPG<br />
-Rsync<br />
-Libsasl2-Modules<br />
+- locate<br />
+- postfix<br />
+- mail-utils<br />
+- samba<br />
+- cifs-utils<br />
+. wget<br />
+- htop<br />
+- avahi-daemon<br />
+- ncdu<br />
+- gnupg<br />
+- rsync<br />
+- libsasl2-modules<br />
 
 improvement suggestions are always welcome.<br />
 Hope you enjoy!
