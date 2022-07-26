@@ -1,9 +1,11 @@
 # open-proxmox-setup
 
-This Sciprt is for having the Proxmox-pve automatically setup after the initial installation.
+This script is for having the Proxmox-pve automatically set up after the initial installation.
 To review it, just download the files or clone the repo and run start.sh. 
 The folder structure is encrypted to prevent it from giving away sensitive credentials.
-You should adapt the script to your needs and of course you may encrypt it using the prefered method of your choice as you please.
+You should adapt the script to your needs and of course, you may encrypt it using the preferred method of your choice as you please.
+
+Once encrypted, it will automatically run setup.sh to continue the setup process on its own but it will ask you whether you want to start in the beginning. You might wanna abort it just to check out the encrypted files. setup.sh is the one to start with, it will go on to call the other scripts as it proceeds.
 
 Just look into it and let it take you from there.<br /> 
 The password is "reddit".
