@@ -9,6 +9,7 @@ Just look into it and let it take you from there.
 
 It will mainly focus on the following things:
 
+Scan for and Import ZFS-Pools
 Update root-password <br />
 Deactivate enterprise-repos<br />
 Mount network drives<br />
