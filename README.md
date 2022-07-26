@@ -3,7 +3,7 @@
 This Sciprt is for having the Proxmox-pve automatically setup after the initial installation.
 To review it, just download the files or clone the repo and run start.sh. 
 The folder structure is encrypted to prevent it from giving away sensitive credentials.
-Of course you may adapt it and encrypt it using your own method as you please.
+You should adapt the script to your needs and of course you may encrypt it using the prefered method of your choice as you please.
 
 Just look into it and let it take you from there.<br /> 
 The password is "reddit".
